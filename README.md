@@ -5,7 +5,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Hello World! I'm Jay
 
-<h3 align="center">🚀 Passionate Full Stack Developer | 🏆 Hackathon Champion | 💡 Problem Solver</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer | 🏆 Hackathon Champion</h3>
 
 <!-- Animated typing effect -->
 <p align="center">
@@ -84,23 +84,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **GitHub Stats**
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jayjoshi2512&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=jayjoshi2512&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjoshi2512&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayjoshi2512&bg_color=0d1117&color=708090&line=24292e&point=ff6b6b&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
