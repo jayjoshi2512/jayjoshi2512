@@ -91,6 +91,20 @@
 
 ---
 
+## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"> **Certificates & Achievements**
+
+<div align="center">
+
+🏆 **View My Certifications** 🏆
+
+[![Certificates](https://img.shields.io/badge/📜_View_Certificates-FF6B6B?style=for-the-badge&logo=certificate&logoColor=white)](https://portfolioo-1xkb.vercel.app/#certificates)
+
+*Click above to explore my professional certifications and course completions*
+
+</div>
+
+---
+
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Let's Build Something Amazing!**
