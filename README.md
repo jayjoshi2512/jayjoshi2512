@@ -79,7 +79,13 @@
 
 <div align="center">
 
-🥇 **CHAMPION** - B.H. Gardi College (2024) | 🥉 **3rd Place** - Hacker House GOA (2024) | 🎯 **Finalist** - SSIP Hackathon PDEU (2024)
+| 🏅 **Achievement** | 🎯 **Event** | 🏛️ **Venue** | 📅 **Year** |
+|:-----------------:|:------------:|:-------------:|:-----------:|
+| 🥇 **CHAMPION** | Hackathon 2024 | B.H. Gardi College | 2024 |
+| 🥉 **3rd Place** | Hacker House GOA | GOA | 2024 |
+| 🎯 **Finalist** | SSIP Hackathon | PDEU (State Level) | 2024 |
+| 🎯 **Participant** | Hack The Mountains 5.0 | Marwadi University | 2024 |
+| 🎯 **Participant** | HackNUthon 5.0 | Nirma University | 2024 |
 
 </div>
 
