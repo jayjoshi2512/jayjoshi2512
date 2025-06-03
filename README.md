@@ -30,9 +30,6 @@
 <a href="mailto:joshijayc075@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://github.com/jayjoshi2512" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 </p>
 
 </div>
@@ -49,10 +46,9 @@
   - 🥇 1st Place at B.H. Gardi College
   - 🥉 3rd at Hacker House GOA
 - 👨‍💻 All of my projects are available at [**My Portfolio**](https://portfolioo-1xkb.vercel.app/)
-- 💬 Ask me about **React, Node.js, MongoDB, Python**
+- 💬 Ask me about **React, Node.js, MongoDB, Flutter, MySQL, PHP**
 - 📫 How to reach me: **joshijayc075@gmail.com**
 - 📍 Based in **Gujarat, India** 🇮🇳
-- ⚡ Fun fact: **I turn coffee into code!** ☕→💻
 
 <br clear="both"/>
 
