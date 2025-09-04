@@ -97,7 +97,7 @@
 
 🏆 **View My Certifications** 🏆
 
-[![Certificates](https://img.shields.io/badge/📜_View_Certificates-FF6B6B?style=for-the-badge&logo=certificate&logoColor=white)](https://portfolioo-1xkb.vercel.app/#certificates)
+[![Certificates](https://img.shields.io/badge/📜_View_Certificates-FF6B6B?style=for-the-badge&logo=certificate&logoColor=white)](https://jayjoshii.me/#certificates)
 
 *Click above to explore my professional certifications and course completions*
 
