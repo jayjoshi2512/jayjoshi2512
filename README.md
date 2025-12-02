@@ -12,6 +12,8 @@
 
 I'm a Full Stack Developer specializing in the MERN stack, with a proven track record in competitive hackathons and building production-ready applications. I focus on creating scalable, user-centric solutions that solve real-world problems.
 
+Currently expanding my expertise in **TypeScript** and **Next.js** while working on innovative full-stack projects.
+
 ---
 
 ## Technical Skills
@@ -63,9 +65,15 @@ View my professional certifications and completed courses at [jayjoshii.me/#cert
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jayjoshi2512&show_icons=true&theme=default&hide_border=true&count_private=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jayjoshi2512&layout=compact&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayjoshi2512&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayjoshi2512&theme=vue&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjoshi2512&layout=compact&theme=vue&hide_border=true&langs_count=6)
+
+</div>
 
 ---
 
@@ -77,6 +85,6 @@ I'm always interested in collaborating on innovative projects or discussing new 
 
 <div align="center">
 
-*"Code is like a garden — ignore it for a week and it becomes a jungle."*
+*"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
 
 </div>
