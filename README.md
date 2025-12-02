@@ -61,21 +61,6 @@ Comprehensive attendance management system utilizing QR code technology for educ
 
 View my professional certifications and completed courses at [jayjoshii.me/#certificates](https://jayjoshii.me/#certificates)
 
----
-
-## GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayjoshi2512&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayjoshi2512&theme=vue&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjoshi2512&layout=compact&theme=vue&hide_border=true&langs_count=6)
-
-</div>
-
----
 
 ## Let's Connect
 
@@ -85,6 +70,6 @@ I'm always interested in collaborating on innovative projects or discussing new 
 
 <div align="center">
 
-*"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
+*"Code is like a garden — ignore it for a week and it becomes a jungle."*
 
 </div>
