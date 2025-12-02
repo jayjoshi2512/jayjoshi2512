@@ -1,119 +1,82 @@
-<div align="center">
+# Jay Joshi
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=Jay%20Joshi&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff"/>
+**Full Stack Developer** | **Hackathon Champion** | **Gujarat, India**
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hello World! I'm Jay
-
-<h3 align="center">🚀 Full Stack Developer | 🏆 Hackathon Champion</h3>
-
-<!-- Animated typing effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%E2%9A%A1;Hackathon+Winner+%F0%9F%8F%86" alt="Typing Animation" />
-</p>
-
-<!-- Connect with me -->
-<p align="center">
-<a href="https://portfolioo-1xkb.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://linkedin.com/in/jayjoshi2512" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:joshijayc075@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-</p>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://portfolioo-1xkb.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayjoshi2512)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joshijayc075@gmail.com)
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+## About
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🔭 Working on **MERN Stack Projects**
-- 🌱 Learning **TypeScript & Next.js**
-- 🏆 **Multiple Hackathon Winner** (1st at B.H. Gardi College, 3rd at Hacker House GOA)
-- 👨‍💻 Projects at [**My Portfolio**](https://portfolioo-1xkb.vercel.app/)
-- 💬 Ask me about **React, Node.js, MongoDB, Flutter**
-- 📍 **Gujarat, India** 🇮🇳
-
-<br clear="both"/>
+I'm a Full Stack Developer specializing in the MERN stack, with a proven track record in competitive hackathons and building production-ready applications. I focus on creating scalable, user-centric solutions that solve real-world problems.
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Tech Stack**
+## Technical Skills
 
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</div>
+**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Flutter  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, MySQL  
+**Languages:** JavaScript, Python, Dart  
+**Tools & Platforms:** Git, Vercel, Render, REST APIs
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Featured Projects**
+## Featured Projects
 
-<div align="center">
+### [Taskk](https://taskk-1-16pw.onrender.com/) | [Repository](https://github.com/jayjoshi2512/taskk)
+A Notion-inspired productivity platform built with the MERN stack, featuring real-time collaboration, rich text editing, and intuitive task management.
 
-| 🚀 **Project** | 📝 **Description** | 🛠️ **Tech** | 🔗 **Links** |
-|:----------:|:---------------:|:-----------:|:----------:|
-| **🎯 Taskk** | Notion-style productivity app | `MERN` | [![Demo](https://img.shields.io/badge/🌐_Demo-success?style=flat-square)](https://taskk-1-16pw.onrender.com/) [![Code](https://img.shields.io/badge/📂_Code-blue?style=flat-square)](https://github.com/jayjoshi2512/taskk) |
-| **🏥 Medi-Sense** | AI health diagnostic platform | `React` + `ML` | [![Code](https://img.shields.io/badge/📂_Code-blue?style=flat-square)](https://github.com/jayjoshi2512/Medi-Sense) |
-| **📱 QrAttendify** | Smart attendance system | `Flutter` + `React` | [![Demo](https://img.shields.io/badge/🌐_Demo-success?style=flat-square)](https://www.qrqr.miwtindia.com) |
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js
 
-</div>
+### [Medi-Sense](https://github.com/jayjoshi2512/Medi-Sense)
+AI-powered health diagnostic platform that assists users with preliminary health assessments using machine learning algorithms.
+
+**Tech Stack:** React, Machine Learning, Python
+
+### [QrAttendify](https://www.qrqr.miwtindia.com)
+Comprehensive attendance management system utilizing QR code technology for educational institutions, reducing manual tracking overhead.
+
+**Tech Stack:** Flutter, React, Node.js
 
 ---
 
-## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30"> **Hackathon Achievements**
+## Hackathon Achievements
 
-<div align="center">
-
-| 🏅 **Achievement** | 🎯 **Event** | 🏛️ **Venue** | 📅 **Year** |
-|:-----------------:|:------------:|:-------------:|:-----------:|
-| 🥇 **CHAMPION** | Hackathon 2024 | B.H. Gardi College | 2024 |
+| Position | Event | Location | Year |
+|----------|-------|----------|------|
+| 🥇 **1st Place** | Hackathon 2024 | B.H. Gardi College | 2024 |
 | 🥉 **3rd Place** | Hacker House GOA | GOA | 2024 |
-| 🎯 **Finalist** | SSIP Hackathon | PDEU (State Level) | 2024 |
-| 🎯 **Participant** | Hack The Mountains 5.0 | Marwadi University | 2024 |
-| 🎯 **Participant** | HackNUthon 5.0 | Nirma University | 2024 |
-
-</div>
+| **Finalist** | SSIP Hackathon (State Level) | PDEU | 2024 |
+| **Participant** | Hack The Mountains 5.0 | Marwadi University | 2024 |
+| **Participant** | HackNUthon 5.0 | Nirma University | 2024 |
 
 ---
 
-## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"> **Certificates & Achievements**
+## Certifications
 
-<div align="center">
+View my professional certifications and completed courses at [jayjoshii.me/#certificates](https://jayjoshii.me/#certificates)
 
-🏆 **View My Certifications** 🏆
+---
 
-[![Certificates](https://img.shields.io/badge/📜_View_Certificates-FF6B6B?style=for-the-badge&logo=certificate&logoColor=white)](https://jayjoshii.me/#certificates)
+## GitHub Statistics
 
-*Click above to explore my professional certifications and course completions*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayjoshi2512&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjoshi2512&layout=compact&theme=default&hide_border=true)
+
+---
+
+## Let's Connect
+
+I'm always interested in collaborating on innovative projects or discussing new opportunities. Feel free to reach out through [LinkedIn](https://linkedin.com/in/jayjoshi2512) or [email](mailto:joshijayc075@gmail.com).
 
 ---
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Let's Build Something Amazing!**
-
-### 💡 *"Code is like humor. When you have to explain it, it's bad."*
-
-**⭐ If you like my work, give it a star!**
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer"/>
+*"Code is like a garden — ignore it for a week and it becomes a jungle."*
 
 </div>
