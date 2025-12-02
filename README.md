@@ -63,9 +63,9 @@ View my professional certifications and completed courses at [jayjoshii.me/#cert
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayjoshi2512&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jayjoshi2512&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjoshi2512&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jayjoshi2512&layout=compact&theme=default&hide_border=true)
 
 ---
 
