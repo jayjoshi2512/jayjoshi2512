@@ -1,3 +1,2 @@
-# Jay Joshi
-
 **Just a Techie**
+~ *Elliot Alderson (MR. ROBOT)*
